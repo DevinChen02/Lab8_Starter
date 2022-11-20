@@ -3,6 +3,7 @@
 Yanxiong Chen
 
 <br>
+# "Check Your Understanding" questions: 
 
 1) Option 1. The automated tests are fit within a Github actions that runs whenever code is pushed. Because in automation testing, the scripts are written to automatically test your new and existing software based on events like code getting pushed to the remote repository. 
 
